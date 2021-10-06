@@ -1,0 +1,40 @@
+# DSA - Searching And Sorting
+
+| Number: | Problem:                                                            | Link:                                                                                                                            |
+| ------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 1       | Find first and last positions of an element in a sorted array       | https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0                                                    |
+| 2       | Find a Fixed Point (Value equal to index) in a given array          | https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1                                                     |
+| 3       | Search in a rotated sorted array                                    | https://leetcode.com/problems/search-in-rotated-sorted-array/                                                                    |
+| 4       | square root of an integer                                           | https://practice.geeksforgeeks.org/problems/count-squares3649/1                                                                  |
+| 5       | Maximum and minimum of an array using minimum number of comparisons | https://practice.geeksforgeeks.org/problems/middle-of-three2926/1                                                                |
+| 6       | Optimum location of point to minimize total distance                | https://www.geeksforgeeks.org/optimum-location-point-minimize-total-distance/                                                    |
+| 7       | Find the repeating and the missing                                  | https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1                                                     |
+| 8       | find majority element                                               | https://practice.geeksforgeeks.org/problems/majority-element/0                                                                   |
+| 9       | Searching in an array where adjacent differ by at most k            | https://www.geeksforgeeks.org/searching-array-adjacent-differ-k/                                                                 |
+| 10      | find a pair with a given difference                                 | https://practice.geeksforgeeks.org/problems/find-pair-given-difference/0                                                         |
+| 11      | find four elements that sum to a given value                        | https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0                                                          |
+| 12      | maximum sum such that no 2 elements are adjacent                    | https://practice.geeksforgeeks.org/problems/stickler-theif/0                                                                     |
+| 13      | Count triplet with sum smaller than a given value                   | https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1                                         |
+| 14      | merge 2 sorted arrays                                               | https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1                                                        |
+| 15      | print all subarrays with 0 sum                                      | https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0                                                                 |
+| 16      | Product array Puzzle                                                | https://practice.geeksforgeeks.org/problems/product-array-puzzle/0                                                               |
+| 17      | Sort array according to count of set bits                           | https://practice.geeksforgeeks.org/problems/sort-by-set-bit-count/0                                                              |
+| 18      | minimum no. of swaps required to sort the array                     | https://practice.geeksforgeeks.org/problems/minimum-swaps/1                                                                      |
+| 19      | Bishu and Soldiers                                                  | https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/          |
+| 20      | Rasta and Kheshtak                                                  | https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/rasta-and-kheshtak/          |
+| 21      | Kth smallest number again                                           | https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/kth-smallest-number-again-2/ |
+| 22      | Find pivot element in a sorted array                                | http://theoryofprogramming.com/2017/12/16/find-pivot-element-sorted-rotated-array/                                               |
+| 23      | K-th Element of Two Sorted Arrays                                   | https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array/0                                                   |
+| 24      | Aggressive cows                                                     | https://www.spoj.com/problems/AGGRCOW/                                                                                           |
+| 25      | Book Allocation Problem                                             | https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0                                                   |
+| 26      | EKOSPOJ:                                                            | https://www.spoj.com/problems/EKO/                                                                                               |
+| 27      | Job Scheduling Algo                                                 | https://www.geeksforgeeks.org/weighted-job-scheduling-log-n-time/                                                                |
+| 28      | Missing Number in AP                                                | https://practice.geeksforgeeks.org/problems/arithmetic-number/0                                                                  |
+| 29      | Smallest number with atleastn trailing zeroes infactorial           | https://practice.geeksforgeeks.org/problems/smallest-factorial-number5929/1                                                      |
+| 30      | Painters Partition Problem:                                         | https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0                                                   |
+| 31      | ROTI-Prata SPOJ                                                     | https://www.spoj.com/problems/PRATA/                                                                                             |
+| 32      | DoubleHelix SPOJ                                                    | https://www.spoj.com/problems/ANARC05B/                                                                                          |
+| 33      | Subset Sums                                                         | https://www.spoj.com/problems/SUBSUMS/                                                                                           |
+| 34      | Findthe inversion count                                             | https://practice.geeksforgeeks.org/problems/inversion-of-array/0                                                                 |
+| 35      | Implement Merge-sort in-place                                       | https://www.geeksforgeeks.org/in-place-merge-sort/                                                                               |
+| 36      | Partitioning and Sorting Arrays with Many Repeated Entries          | https://www.baeldung.com/java-sorting-arrays-with-repeated-entries                                                               |
